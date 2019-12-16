@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "649833438613",
+    "firebase_url": "https://spykit-5a18d.firebaseio.com",
+    "project_id": "spykit-5a18d",
+    "storage_bucket": "spykit-5a18d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649833438613:android:fec7f31a2e82e1b5b26a9c",
+        "android_client_info": {
+          "package_name": "com.intellisr.spykit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649833438613-379umet99lr45nllq56jkiq1qme7et4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intellisr.spykit",
+            "certificate_hash": "566af809deada9043bc48aedea1210b17e3548f1"
+          }
+        },
+        {
+          "client_id": "649833438613-nddvk0b19kbsqbengohp4ppvrv3gf5kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxrUNK42fD9Ms62M68G1VIzt4GYnnbAR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649833438613-nddvk0b19kbsqbengohp4ppvrv3gf5kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
